@@ -162,7 +162,6 @@ Content goes here.
   - Implant offices/ personnel goes home at 5pm, this day is the latest you can retrieve acetate of templates for your pre operative conference
   - Hence, plan accordingly
 
-
 ## Preoperative/ Indications day
 - Patients for surgery:
   - have appropriate units of blood ready for surgery
@@ -184,14 +183,14 @@ Content goes here.
   - Patients should be off warfarin for one week prior to surgery
   - Patients should be off clopidogrel for one week prior to surgery
 - Specialty consultants numbers:
-  - Dr Alba
-  - Dr Cecilio
-  - Dr Torres
-  - Dr Ramos
-  - Dr Bajandi
-  - Dr Ebba
-  - Dr Canete
-  - Dr Astrologio
+  - Dr. Alba
+  - Dr. Cecilio
+  - Dr. Torres
+  - Dr. Ramos
+  - Dr. Bajandi
+  - Dr. Ebba
+  - Dr. Canete
+  - Dr. Astrologio
 - IM consultants are duty on these dates, if it is an emergency you can call them.
 - Duty schedules
 
@@ -309,7 +308,6 @@ Content goes here.
     - extremity for surgery marked
 
 ## OR day
-
 - Arrive prior to consultants
 - talk to the nurse that controls the traffic of patients coming in
 - call the wards to check on all the patients scheduled for surgery that day
@@ -324,36 +322,36 @@ Content goes here.
   - surgical plan
 - check that implant surgical assistant is present
 - check patient’s implant
-- check the drills (are present and adequately charged)
+- check the power drills (are present and adequately charged)
 - check correct sizes have arrived (example Austin Moore all sizes in narrow and regular)
 - secure hip post
 - get yellow plastic for prep
 - get towels, draw sheets and wadding sheet for padding the bony prominences
-- secure pliers for removal of steinman pin (when applicable)
+- secure pliers for removal of Steinman pin (when applicable)
 - double check your ioban/opsite/skin markers (tailored according to patient’s needs, consultant’s request and cost effectivity)
-- remind scrub nurse early on to secure equipment that you need (such as a good reduction clamp for an RU, reamers)
+- remind scrub nurse early on to secure equipment that you need (such as a good reduction clamp for an RU, straight reamers, vise grip, lamina spreader)
 - ready K-wires. cerclage wires, straight needles (where applicable)
-- call the RadTech (at the OPD or ER) if you need an early shoot for image intensifier or your want an x-ray prior to prep
+- call the RadTech (at the Radiology department OPD or ER) if you need an early shoot for the image intensifier or your want an x-ray prior to prep
 - call the pathology department for a heads up if you are sending an RFS (the RFS form should be filled out day prior to surgery)
-- do we need music? (some teams want music on the background-with a particular genre, some want utter silence) music soothes the tension and anxiety, i find it nice to have one
-- know what your surgeon wants
-- don’t forget to eat prior to surgery! we don’t want an assist fainting because of hypoglycemia
+- do we need music? (some teams want music on the background-with a particular genre, some want utter silence) music soothes the tension and anxiety, I personally find it nice to have one. So prepare a playlist justin case your team wants one
+- know what the primary surgeon wants pre op(positioning, particulars of prepping), intra op (preferred instruments, preferred approach) and post op
+- don’t forget to eat prior to surgery! the least that we want is an assist fainting because of hypoglycemia
 
 ## Surgery proper
-- in prepping
 - you would know the flow of the surgery if you have studied the case
 - some basic rules to follow:
   - keep yourself sterile
   - do not obstruct the primary surgeon, give him space to move and maneuver
   - do not pass instruments/ gauze/ in front 	of the surgeon’s field
   - pay attention to what he is saying, don’t make him ask twice
-- do we have to elevate the table? (order stool for your self)
+- do we have to elevate the table
 - do we have to reposition the lights?
-- do we have to sit on a stool (if it is a forearm surgery)  
+- do we have to sit on a stool (for a forearm surgery)
+- efficieny intra op decreases the intra operative and contributes in favor of the patient
 
 ## Duty day
 - Come at 6 am - this would be enough time for trans out and for duty preparations before going up to the conference room
-- During trans out- it’s good to know the status of all patients of the team that has been operated on and not just the one you are doing trans out
+- During trans out- it’s good to know the status of all patients of the team that has been operated on and not just your own personal patients
 - Don’t forget to write your patient’s name for on-call surgery at the ER board
 - For the on-call surgery remember the following
   - Wound gram stain
@@ -364,151 +362,152 @@ Content goes here.
   - The patient is admitted less than 2 weeks
   - All materials for surgery were made ready the night before
   - Patient and family informed and educated about the planned surgery
-  - Patient has a relative/ guardian that will 	be there during the surgery
-  - If all the above are ready before 12 noon, then there is no point you have to wait 	until evening to have the on call done
+  - Patient has a relative/ guardian that will be there during the surgery
+  - If all the above are ready before 12 noon, then you can inform the ER and ward nurses that the patient is ready for surgery even if the time is before lunch
 - It is a MUST! that every duty resident knows every patient that comes in the ER
-- Triage!- meaning the surgeon would determine who is critical and who is not. Example: you are examining an “OPD” patient at the ER and a stretcher was wheeled in bearing another patient with a bloody leg. Politely excuse yourself, and appropriate initial resuscitations.
+- Triage- means that the resident would determine who is critical and who is not. Example: you are examining an “OPD” patient at the ER and a stretcher was wheeled in bearing another patient with a bloody leg. Politely excuse yourself, and administer appropriate initial resuscitations to the second patient.
 - Prioritize all open fractures and patients who are undergoing surgery under anesthesia
-  - Have you ordered and indicated the patient for surgery
-  - Inform your chief resident regarding the 	surgery, make sure they have scrutinized the x-ray and that they agree 	with the proposed procedure
+  - Order in the chart and indicate the patient for surgery
+  - Make sure to write your own history and physical examination findings
+  - Inform the chief resident regarding the 	surgery, make sure they have scrutinized the x-ray and that they agree 	with the proposed procedure
   - Inform and communicate with the anesthesiologist
-  - Check the wound gram stain has been sent (instances occurred when the whole team was waiting overnight for 	the patient to undergo surgery only to 	find out WGS has not been sent)
+  - Check that the wound gram stain has been sent (instances occurred when the whole team was waiting overnight for 	the patient to undergo surgery only to 	find out WGS has not been sent)
   - Blood typing done
-  - Crossmatching done (also a common delay in performing surgery; crossmatching takes place within 30 mins to 2 hours and if you want to really check you make call the blood bank)
-  - Explain the case and the need for surgery to the patient and to the relatives and make them sign the consent prior to the surgery ( make sure 	they understand the possible complications)
+  - Crossmatching done (also a common delay in performing surgery; crossmatching takes place within 30 mins to 2 hours and if you want to check the status of the crossmatch you can call the blood bank)
+  - Explain the diagnosis and the need for surgery to the patient and to the relatives and make them sign the consent prior to the surgery (make sure they understand the possible complications)
   - Always always check the neurovascular status prior to surgery!! (especially if you are putting external fixators). document 	your findings at the chart PRIOR to surgery
-  - Hours before the actual procedure check your implants and instruments. The last thing you want is an inducted 	patient and the external fixtures were unavailable. To avoid this, do a mental surgery and write down every 		instrument and implant you would need (example: rubber sheet, drill that is charged, back up drill in case this one does not work, drill bit, tap, T-chuck, set of fixture with schnoz pins, couplings, long spanning rods, wrenches etc)
+  - Hours before the actual procedure check your implants and instruments. The last thing you want is an inducted 	patient and the external fixators were unavailable. To avoid this, do a mental surgery and write down every 		instrument and implant you would need (example: rubber sheet, drill that is charged, back up drill in case this one does not work, drill bit, tap, T-chuck, set of fixator with schanz pins, couplings, long spanning rods, wrenches etc)
   - Just as you would during elective surgery, take your time to study the case and devise a surgical plan prior to going in
-  - Incisions can make or break you, it can 	dictate how easy or difficult subsequent 	surgeries will be. Hence: properly plan the incision and have your plan verified by your senior
+  - Incisions can make or break you, it can dictate how easy or difficult subsequent 	surgeries will be. Hence: properly plan the incision and have your plan verified by your senior
   - Closing the wound? or not closing the wound? ss wires? drains? think about these things before going in
-  - And there is no such thing as a mini incision or an arthrotomy, a properly done arthrotomy has adequate 		exposure and visualization of the joint itself
+  - And there is no such thing as a mini incision for an arthrotomy, a properly done arthrotomy has adequate 		exposure and visualization of the joint itself
 - There are only 5 true orthopedic emergencies:
   - cauda equina
   - dislocation
   - open fracture
   - septic knee
   - ???
-- Always be thorough in reviewing your x-rays, always have a second look. make sure patients complaints and physical exam coincides with the x-ray. when in doubt-ask! and write in the chart, that the patient has beed referred to — (name of senior surgeon)
+- Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. when in doubt-ask! and write in the chart, that the patient has beed referred to — (name of senior surgeon)
 document your PE findings, document your x-ray findings, and itemize your plan for the patient.
-- For patients with mold, cast, open wound no matter how small, it’s always safe for the surgeon and the patient if they can come the earliest OPD day to check the cast and the wound
+- For patients with mold, cast, open wound no matter how small, it’s always safe for the surgeon and the patient that the follow up date will be done on the earliest OPD day to check the cast and the wound
 - Educate the patient on how to care for the wound. You would be surprised many would put powdered antibiotics or liniments or hot leaves on their wound which would result in undue morbidities. Take the time to explicitly tell them “bawal po mag lagay ng langis, lana or tuba tuba, o pinulbong amoxicillin…”
-- Take good pictures! You know it’s an open fracture, before opening the wound, ready your sterile draw, elastic bandages, gloves, glass slides and pledgets. Two to three persons should be there. One to lift the limb, one to assemble the draw, get the specimens. Another one to take good pictures. It should be on a green linen, with orientation views visualizing the joint above and the joint below taken on frontal, medial and lateral views, posterior views as needed. A separate close up views to better delineate the degree of damage. It is better if the limb is in alignment when the pictures are taken (example: an open fracture of the tibia, hold the big toe in neutral so that the distal fracture fragment is not externally rotated in the picture)
+- Take good pictures! You know it’s an open fracture, before opening the wound, ready your sterile draw sheet, elastic bandages, gloves, glass slides and pledgets. Two to three persons should be there. One to lift the limb, one to assemble the draw sheet, get the specimens. Another one to take good pictures. It should be on a green linen, with orientation views visualizing the joint above and the joint below taken on frontal, medial and lateral views, posterior views as needed. A separate close up views to better delineate the degree of damage. It is better if the limb is in alignment when the pictures are taken (example: an open fracture of the tibia, hold the big toe in neutral so that the distal fracture fragment is not externally rotated in the picture)
 - Again scrutinize all your x-rays when they arrive to you. Here are the usual x-ray mistakes:
   - X-rays not taken on true AP or true lateral
   - X-rays has one joint above but missed the joint below
-  - Pelvis AP with not enough internal eotrtion of extremity
-  - Over exposed or under exposed
+  - Pelvis AP with not enough internal rotation of extremity
+  - Over exposed or under exposed films
   - X-rays taken with a cast or a mold
   - Foreign body obscuring the view (buckle of the belts/coins/zippers etc)
   - Soaked diapers compromising the quality of your pelvis x-rays
   - Not requesting ancillary/ special views (does the patient need a traction x-ray? pelvic inlet/pelvic outlet/ radiocapitellar/Judet views/false profile etc?)
   - X-rays the part of the body that may have an associated injuries (example: fall from a height? check thoracolumbar, 	pelvis AP, both calcaneus)
-  - At any point that an x-ray does not satisfy the criteria repeat X-ray under your supervision
+  - At any point that an x-ray does not satisfy the above criteria repeat X-ray under your supervision
   - Again, the x-ray you let pass may be crucial for you in the future (think: morbidity, mortality, court summon) so it has to be done properly
   - Properly taken x-rays are vital part of good documentation
 
 ## Research
-
-Research is a vital part (not just of being an orthopaedic surgeon but of) of being a doctor. We don’t want to be mere consumers of knowledge that has been accumulated before us, instead we want to improve on what is already known and contribute to those who will come before us. We want to contribute on how science evolves. This is a good motivating factor. So don’t wait for the deadline, work your way bit by bit over the months and you won’t be cramming come October or February when updates are being asked.
+Research is an integral part (not just of being an orthopaedic surgeon) of being a doctor. We don’t want to be mere consumers of knowledge that has been accumulated before us, instead we want to improve on what is already known and contribute to those who will come before us. We want to contribute on how science evolves. This is a good motivating factor. So don’t wait for the deadline, work your way bit by bit over the months and you won’t be cramming come October or February when updates are being asked.
 
 ## Conferences
 - it is good practice to come 10 mins before 7am
-- please don’t sleep during the conference- yes the consultants are watching and they know if you are always sleeping
+- please don’t sleep during the conference
 - is this a CPC conference? take time to read the case one day prior and review the imaging when you arrive early morning at the conference, that way you will make the most out of the conference
 - do you have a question?- go ahead and ask, the conference is for us to learn
 - are you the service in charge?- then come 30 minutes prior, make sure that the projector has been set up, you have the right connectors, the laptop is working etc. Don’t wait for 7am to trouble shoot the technical problems. Kuya Boy is in his office beside the chapel you can always fetch him if you need anything.
 - are you presenting?- then again come 30 mins before 7am and you can dry run the presentation and trouble shoot the technicalities beforehand.
 
 ## Food
-
 This is an exciting part of POC residency!
 
 If you are the one in-charge of the food, it need not be dragging, a bit of forethought can go a long way. Here’s a short list and my personal opinion (I usually pick our food and I have kept my previous and present teams happy so far):
-- McDonald’s
-  - Trusted and reliable, needs no further explanation
-- Liloan’ Liempo
-  - Combo meals with decent serving of limp and lichen mano, chopsuey and pancit canton
-- Creamy Island
-  - Famous angus beef burger goes well with a variety of soda (A&W Rootbeer, Canada Dry Ginger Ale, Dr Pepper)
+- Ajisen Ramen
+- Aristocrat
+- Army Navy
 - Bugis
-  - To get where I get my fix of laksa.
+  - where I get my fix of laksa.
   - Nice to order:
     - Fish curry with roti
     - Nasi goreng
     - Fish soup
     - Hainanese chicken
     - Chicken rendang
+- Cajun
+- Capreal
+- Cold Storage
+  - Salmon sashimi
+- Creamy Island
+  - Famous angus beef burger goes well with a variety of soda (A&W Rootbeer, Canada Dry Ginger Ale, Dr Pepper)
 - Eat fresh
-  - Laksa
+  - a spicier kind of Laksa
   - Rice toppings
   - Fruit shakes
-- Ramen
+- Everything at Steak
+- Fernandos
+  - kalderatang kambing
+- Formosa
+- Greeka Kouzina
+- Iceberg
+- Jollibee
+- Jonas
+  - oyster cake
+- KFC
+- Kimpo
+- Le Ching
+- Lido
+- Liloan’ Liempo
+  - Combo meals with decent serving of limp and lichen mano, chopsuey and pancit canton
+- Ling nam
+- Mann Hann
+- Max’s
+- McDonald’s
+  - Trusted and reliable, needs no further explanation
+- Meat Depot
+- Mikey’s
+- Monte Villa’s
+- Movenpick
+- Muang Thai
+- North Park
+- Octoboy
+- Oeda
+- Papa John’s
+- Pares sa Retiro
+  - campto soup
+  - pares
+  - bulalo
+- Pizza Hut
+- Rapsadoodle
+- Red Baron’s burger
+- Razon’s
+  - Sizzling bulalo
+  - Sisig
+- Rufo’s tapa
+- Serenitea
+- Sincerity
+  - fried chicken
+- Singapore street food
+- Sunshine fruit bar
+  - Fresh fruits
+  - Fresh fruit juices
+  - Carmen’s best
+- Tapa King
+- Tazza Cafe
+- Tempura
+- Tien Ma
+  - Xia long bao
+  - beef tendon with leeks
 - Tuen Muen roast
   - Order a roast duck
   - Soy chicken
   - White chicken
   - Cold cuts
   - Lechon macau
-- Tapa King
-- Taza Cafe
-- KFC
-- Jollibee
-- Max’s
+- UCC Cafe
+- Whattatea
 - Yellow Cab
   - Dear Darla
   - Tomato soup  
-- Pizza Hut
-- UCC Cafe
-- Monte Villa’s
-- Muang Thai
-- Aristocrat
-- Sincerity
-- Tien Ma
-  - Xia long bao
-- Pares sa Retiro
-  - Campto soup
-- Jonas
-  - oyster cake
-- Fernandos
-- Ling nam
-  - Kimpo
-- Tempura
-- Le Ching
-- Mann Hann
-- Everything at Steak
-- Lido
-- Red Baron’s burger
-- Greeka Kouzina
-- Cajun
-- Vietnamese in front of Tien Ma
-- Rufo’s tapa
-- Cold Storage
-  - Salmon sashimi
-- Sunshine fruit bar
-  - Fresh fruits
-  - Fresh fruit juices
-  - Carmen’s best
-- Sarry
-- Olive
-- Razon’s
-  - Sizzling bulalo
-  - Sisig
-- Iceberg
-- North Park
-- Army Navy
-- Papa John’s
-- Meat Depot
-- Oeda
-- Movenpick
-- Singapore street food
-- Octoboy
-- Formosa
-- Mikey’s
-- Capreal
-- Rapsadoodle
-- Serenitea
 - Zentea
-- Whattatea
 
 ## Telephone directory
 
@@ -520,19 +519,6 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - PBO e-logbook
 - Microsoft powerpoint
 
-## List of implant providers
-- Titech
-- Unimed
-- Orthosteel
-- Bonefix
-- West Tech
-- Pacific Surgical
-- Sinawal
-- Medtronic
-- Accramed
-- ILIX
-- LeFort
-
 ## Take good care of yourself
 - Eat when you have to
 - Exercise
@@ -540,9 +526,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Live a life outside work
 - Pursue a hobby
 - Dress well
-- Need a haircut
-- Clean your shoes
 
 ## Morbidities and mortalities
-- They will come and make yourself a better and wiser person out of it
+- They will come and they will make us better and wiser surgeons
 - Learn from other’s mistake and not repeat it yourself
