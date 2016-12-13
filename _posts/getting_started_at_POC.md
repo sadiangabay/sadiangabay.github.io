@@ -338,16 +338,16 @@ Content goes here.
 - don’t forget to eat prior to surgery! the least that we want is an assist fainting because of hypoglycemia
 
 ## Surgery proper
-- you would know the flow of the surgery if you have studied the case
-- some basic rules to follow:
-  - keep yourself sterile
-  - do not obstruct the primary surgeon, give him space to move and maneuver
-  - do not pass instruments/ gauze/ in front 	of the surgeon’s field
-  - pay attention to what he is saying, don’t make him ask twice
-- do we have to elevate the table
-- do we have to reposition the lights?
-- do we have to sit on a stool (for a forearm surgery)
-- efficieny intra op decreases the intra operative and contributes in favor of the patient
+- You would know the flow of the surgery if you have studied the case
+- Some basic rules to follow:
+  - Keep yourself sterile
+  - Do not obstruct the primary surgeon, give him space to move and maneuver
+  - Do not pass instruments/ gauze/ in front 	of the surgeon’s field
+  - Pay attention to what he is saying, don’t make him ask twice
+- Do we have to elevate the table
+- Do we have to reposition the lights?
+- Do we have to sit on a stool (for a forearm surgery)
+- Efficient intra op decreases the intra operative and contributes in favor of the patient
 
 ## Duty day
 - Come at 6 am - this would be enough time for trans out and for duty preparations before going up to the conference room
@@ -382,10 +382,10 @@ Content goes here.
   - Closing the wound? or not closing the wound? ss wires? drains? think about these things before going in
   - And there is no such thing as a mini incision for an arthrotomy, a properly done arthrotomy has adequate 		exposure and visualization of the joint itself
 - There are only 5 true orthopedic emergencies:
-  - cauda equina
-  - dislocation
-  - open fracture
-  - septic knee
+  - Cauda equina
+  - Dislocation
+  - Open fracture
+  - Septic knee
   - ???
 - Always be thorough in reviewing your x-rays, always have a second look. Make sure patient's complaints and physical exam coincides with the x-ray. when in doubt-ask! and write in the chart, that the patient has beed referred to — (name of senior surgeon)
 document your PE findings, document your x-ray findings, and itemize your plan for the patient.
@@ -410,12 +410,12 @@ document your PE findings, document your x-ray findings, and itemize your plan f
 Research is an integral part (not just of being an orthopaedic surgeon) of being a doctor. We don’t want to be mere consumers of knowledge that has been accumulated before us, instead we want to improve on what is already known and contribute to those who will come before us. We want to contribute on how science evolves. This is a good motivating factor. So don’t wait for the deadline, work your way bit by bit over the months and you won’t be cramming come October or February when updates are being asked.
 
 ## Conferences
-- it is good practice to come 10 mins before 7am
-- please don’t sleep during the conference
-- is this a CPC conference? take time to read the case one day prior and review the imaging when you arrive early morning at the conference, that way you will make the most out of the conference
-- do you have a question?- go ahead and ask, the conference is for us to learn
-- are you the service in charge?- then come 30 minutes prior, make sure that the projector has been set up, you have the right connectors, the laptop is working etc. Don’t wait for 7am to trouble shoot the technical problems. Kuya Boy is in his office beside the chapel you can always fetch him if you need anything.
-- are you presenting?- then again come 30 mins before 7am and you can dry run the presentation and trouble shoot the technicalities beforehand.
+- It is good practice to come 10 mins before 7am
+- Please don’t sleep during the conference
+- Is this a CPC conference? take time to read the case one day prior and review the imaging when you arrive early morning at the conference, that way you will make the most out of the conference
+- Do you have a question?- go ahead and ask, the conference is for us to learn
+- Are you the service in charge?- then come 30 minutes prior, make sure that the projector has been set up, you have the right connectors, the laptop is working etc. Don’t wait for 7am to trouble shoot the technical problems. Kuya Boy is in his office beside the chapel you can always fetch him if you need anything.
+- Are you presenting? - then again come 30 mins before 7am and you can dry run the presentation and trouble shoot the technicalities beforehand.
 
 ## Food
 This is an exciting part of POC residency!
@@ -511,7 +511,11 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 
 ## Telephone directory
 
+Content goes here.
+
 ## Reading resources and useful websites
+
+Content goes here.
 
 ## Recommended apps/ software
 - Catch
