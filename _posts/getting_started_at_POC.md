@@ -5,11 +5,13 @@ date:   2016-12-17 18:23:40
 categories: Philippine Orthopedic Center residency
 ---
 
+# Getting Started at POC
+
 ## Foreword from Dr. Pujalte
 
 Congratulations to Dr. Jewel Sadiang-abay for a thoughtful introduction to orthopedic residency at the Philippine Orthopedic Center.
 
-Unfortunately, the medical school adage "see one, do one, teach one" is woefully incomplete because residency demands a deeper grasp of things orthopedic as it were. The popular author Gail Sheehy in her book "Passages" explains that one factor for success in life is a period early in one's career of single-minded focus in work. This is exactly what I mean in eating, drinking and dreaming orthopedics.
+Unfortunately, the medical school adage "see one, do one, teach one" is woefully incomplete because residency demands a deeper grasp of thigns orthopedic as it were. The popular author Gail Sheehy in her book "Passages" explains that one factor for success in life is a period early in one's career of single-minded focus in work. This is exactly what I mean in eating, drinking and dreaming orthopedics.
 
 To our residents- what more is there to say but "Buckle up!" it will be a great ride.  
 
@@ -67,7 +69,8 @@ Banawe QC, December 2016
   4. Na
   4. K
   5. 2D echo done showed
-  6. Ejection Fraction - (especially if you are doing cemented arthroplasties)
+  6. Ejection Fraction - (especially if you are doing cemented
+    arthroplasties)
   7. CXR
   8. 12 lead ECG
 
@@ -76,7 +79,8 @@ Banawe QC, December 2016
   - implant provider is XYZ
   - implant sizes XYZ
   - cementless
-  - show template (ideally template has been done even if patient not yet lined up for surgery)
+  - show template (ideally template has been done even if patient
+    not yet lined up for surgery)
   2. Co-managed with Pulmo service for pneumonia
   3. Day 5 of Cefuroxime
   4. 2 units blood available
@@ -215,50 +219,64 @@ Banawe QC, December 2016
   - Do we need ethibond? (what size)
   - Do we need ss wires?
 - Study plan for a pre op conference may look like this:
-  - For a Galeazzi fracture dislocation
-    - Must read:
-      - Hoppenfeld Orthopedic Exposures chapter on dorsal and volar approach to radial shaft
-      - (plus pertinent anatomy)
-      - Rockwood 8 chapter on radial shaft fracture
-      - Rockwood 8 chapter on internal fixation
-      - AO Volume chapter on radial shaft fixation
-      - AO chapter on absolute/ anatomic reduction
-      - AO chapter on plating
-      - AO chapter on templating
-    - Good to know:
-      - OKU Trauma 4 chapter on fractures of forearm
-      - OKU 11 chapter on fractures of forearm
-      - Wheeless online for pertinent journals
-      - Updated journals for collateral readings
-  - For a femoral shaft fracture
-    - Must read:
-      - Hoppenfeld Orthopedic Exposures chapter on approaches to femoral shaft
-      - (plus pertinent anatomy)
-      - Rockwood 8 chapter on femoral shaft fracture
-      - Rockweood 8 chapter on internal fixation
-      - AO Volume chapter on femoral shaft fixation
-      - AO chapter on IMN  
-      - AO chapter on relative stability (length axis rotation)
-      - AO chapter on templating
-      - Implant provider surgical technique
-    - Good to know:
-      - OKU Trauma 4 chapter on femur fractures
-      - OKU 11 chapter on femur fractures
-      - Wheeless online for pertinent journals
-      - Updated journals for your collateral readings  
-  - For femoral neck fracture undergoing a THA
-    - Must read:
-      - Hoppenfeld Orthopedic Exposures chapter on approaches to hip
-      - (plus pertinent anatomy)
-      - Rockwood 8 chapter on femoral neck fracture
-      - Campbell THA chapter (this chapter has a subsection for templating of THA by Capello)
-      - Miller THA chapter (good source to understand alternate bearings)
-      - Implant provider surgical technique
-    - Good to know:
-      - OKU Trauma 4 chapter on adult reconstruction
-      - OKU 11 chapter on adult reconstruction s
-      - Wheeless online for pertinent journals
-      - Updated journals for your collateral readings  
+
+  ~~~
+  For a Galeazzi fracture dislocation
+
+  Must read
+  - Hoppenfeld Orthopedic Exposures chapter on dorsal and volar approach to
+    radial shaft
+  - (plus pertinent anatomy)
+  - Rockwood 8 chapter on radial shaft fracture
+  - Rockwood 8 chapter on internal fixation
+  - AO Volume chapter on radial shaft fixation
+  - AO chapter on absolute/ anatomic reduction
+  - AO chapter on plating
+  - AO chapter on templating
+
+  Good to know:
+  - OKU Trauma 4 chapter on fractures of forearm
+  - OKU 11 chapter on fractures of forearm
+  - Wheeless online for pertinent journals
+  - Updated journals for collateral readings
+
+  For a femoral shaft fracture
+
+  Must read
+  - Hoppenfeld Orthopedic Exposures chapter on approaches to femoral shaft
+  - (plus pertinent anatomy)
+  - Rockwood 8 chapter on femoral shaft fracture
+  - Rockweood 8 chapter on internal fixation
+  - AO Volume chapter on femoral shaft fixation
+  - AO chapter on IMN  
+  - AO chapter on relative stability (length axis rotation)
+  - AO chapter on templating
+  - Implant provider surgical technique
+
+  Good to know
+  - OKU Trauma 4 chapter on femur fractures
+  - OKU 11 chapter on femur fractures
+  - Wheeless online for pertinent journals
+  - Updated journals for your collateral readings
+
+  For femoral neck fracture undergoing a THA
+
+  Must read
+  - Hoppenfeld Orthopedic Exposures chapter on approaches to hip
+  - (plus pertinent anatomy)
+  - Rockwood 8 chapter on femoral neck fracture
+  - Campbell THA chapter (this chapter has a subsection for templating of THA
+    by Capello)
+  - Miller THA chapter (good source to understand alternate bearings)
+  - Implant provider surgical technique
+
+  Good to know
+  - OKU Trauma 4 chapter on adult reconstruction
+  - OKU 11 chapter on adult reconstructions
+  - Wheeless online for pertinent journals
+  - Updated journals for your collateral readings
+  ~~~
+
 - Remember that the pediatric fracture classification and surgical indications are different from the adult
 - Rockwood 8 has an entire volume dedicated for pediatric fractures, it is comprehensive and would suffice
 - During the pre operative conference, write down notes during the discussion
@@ -489,7 +507,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Catch
 - Evernote
 - PBO e-logbook
-- Microsoft Powerpoint
+- Microsoft powerpoint
 
 ## Take good care of yourself
 - Eat when you have to
