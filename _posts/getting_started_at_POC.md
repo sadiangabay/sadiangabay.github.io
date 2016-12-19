@@ -11,9 +11,9 @@ categories: Philippine Orthopedic Center residency
 
 Congratulations to Dr. Jewel Sadiang-abay for a thoughtful introduction to orthopedic residency at the Philippine Orthopedic Center.
 
-Unfortunately, the medical school adage "see one, do one, teach one" is woefully incomplete because residency demands a deeper grasp of thigns orthopedic as it were. The popular author Gail Sheehy in her book "Passages" explains that one factor for success in life is a period early in one's career of single-minded focus in work. This is exactly what I mean in eating, drinking and dreaming orthopedics.
+Unfortunately, the medical school adage "see one, do one, teach one" is woefully incomplete because residency demands a deeper grasp of things orthopedic as it were. The popular author Gail Sheehy in her book "Passages" explains that one factor for success in life is a period early in one's career of single-minded focus in work. This is exactly what I mean in eating, drinking and dreaming orthopedics.
 
-To our residents- what more is there to say but "Buckle up!" it will be a great ride.  
+To our residents - what more is there to say but "Buckle up!" it will be a great ride.  
 
 Jose S. Pujalte, Jr. MD FPOA FPCS FACS<br/>
 Medical Center Chief II<br/>
