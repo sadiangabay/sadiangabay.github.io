@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Getting Started at POC"
-date:   2016-12-17 18:23:40
-categories: Philippine Orthopedic Center residency
+date: 2016-12-17 18:23:40
+title: Getting Started at POC
+description: Tips to get you up to speed as a POC resident.
 ---
 
 # Getting Started at POC
