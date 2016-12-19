@@ -6,7 +6,7 @@ sass:
   sass_dir: ./_/sass
 
 # Markdown
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
