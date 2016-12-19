@@ -420,7 +420,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Army Navy
 - Bugis
   - where I get my fix of laksa.
-  - Nice to order:
+  - Nice to order
     - Fish curry with roti
     - Nasi goreng
     - Fish soup
@@ -433,25 +433,25 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Creamy Island
   - Famous angus beef burger goes well with a variety of soda (A&W Rootbeer, Canada Dry Ginger Ale, Dr Pepper)
 - Eat fresh
-  - a spicier kind of Laksa
+  - A spicier kind of Laksa
   - Rice toppings
   - Fruit shakes
 - Everything at Steak
 - Fernandos
-  - kalderatang kambing
+  - Kalderatang kambing
 - Formosa
 - Greeka Kouzina
 - Iceberg
 - Jollibee
 - Jonas
-  - oyster cake
+  - Oyster cake
 - KFC
 - Kimpo
 - Le Ching
 - Lido
 - Liloan’ Liempo
-  - liempo
-  - lechon manok
+  - Liempo
+  - Lechon manok
 - Ling nam
 - Mann Hann
 - Max’s
@@ -466,9 +466,9 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Oeda
 - Papa John’s
 - Pares sa Retiro
-  - campto soup
-  - pares
-  - bulalo
+  - Campto soup
+  - Pares
+  - Bulalo
 - Pizza Hut
 - Rapsadoodle
 - Red Baron’s burger
@@ -478,7 +478,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Rufo’s tapa
 - Serenitea
 - Sincerity
-  - fried chicken
+  - Fried chicken
 - Singapore street food
 - Sunshine fruit bar
   - Fresh fruits
@@ -489,9 +489,9 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
 - Tempura
 - Tien Ma
   - Xia long bao
-  - beef tendon with leeks
+  - Beef tendon with leeks
 - Tuen Muen roast
-  - roast duck
+  - Roast duck
   - Soy chicken
   - White chicken
   - Cold cuts
