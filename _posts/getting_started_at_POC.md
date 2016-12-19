@@ -406,9 +406,9 @@ Research is an integral part (not just of being an orthopaedic surgeon) of being
 - It is good practice to come 10 mins before 7am
 - Please don’t sleep during the conference
 - Is this a CPC conference? Take time to read the case one day prior and review the imaging when you arrive early morning at the conference, that way you will make the most out of the conference
-- Do you have a question?- go ahead and ask, the conference is for us to learn
-- Are you the service in charge?- then come 30 minutes prior, make sure that the projector has been set up, you have the right connectors, the laptop is working etc. Don’t wait for 7am to trouble shoot the technical problems. Kuya Boy is in his office beside the chapel you can always fetch him if you need anything.
-- Are you presenting? - then again come 30 mins before 7am and you can dry run the presentation and trouble shoot the technicalities beforehand.
+- Do you have a question? - Go ahead and ask, the conference is for us to learn
+- Are you the service in charge? - Then come 30 minutes prior, make sure that the projector has been set up, you have the right connectors, the laptop is working etc. Don’t wait for 7am to trouble shoot the technical problems. Kuya Boy is in his office beside the chapel you can always fetch him if you need anything.
+- Are you presenting? - Then again come 30 mins before 7am and you can dry run the presentation and trouble shoot the technicalities beforehand.
 
 ## Food
 This is an exciting part of POC residency!
