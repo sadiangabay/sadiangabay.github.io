@@ -503,7 +503,7 @@ If you are the one in-charge of the food, it need not be dragging, a bit of fore
   - Tomato soup  
 - Zentea
 
-## Recommended apps/ software
+## Recommended apps/softwares
 - Catch
 - Evernote
 - PBO e-logbook
