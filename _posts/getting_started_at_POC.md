@@ -223,58 +223,58 @@ Banawe QC, December 2016
   ~~~
   For a Galeazzi fracture dislocation
 
-  Must read
-  - Hoppenfeld Orthopedic Exposures chapter on dorsal and volar approach to
-    radial shaft
-  - (plus pertinent anatomy)
-  - Rockwood 8 chapter on radial shaft fracture
-  - Rockwood 8 chapter on internal fixation
-  - AO Volume chapter on radial shaft fixation
-  - AO chapter on absolute/ anatomic reduction
-  - AO chapter on plating
-  - AO chapter on templating
+  - Must read
+    - Hoppenfeld Orthopedic Exposures chapter on dorsal and volar approach to
+      radial shaft
+    - (plus pertinent anatomy)
+    - Rockwood 8 chapter on radial shaft fracture
+    - Rockwood 8 chapter on internal fixation
+    - AO Volume chapter on radial shaft fixation
+    - AO chapter on absolute/ anatomic reduction
+    - AO chapter on plating
+    - AO chapter on templating
 
-  Good to know:
-  - OKU Trauma 4 chapter on fractures of forearm
-  - OKU 11 chapter on fractures of forearm
-  - Wheeless online for pertinent journals
-  - Updated journals for collateral readings
+  - Good to know
+    - OKU Trauma 4 chapter on fractures of forearm
+    - OKU 11 chapter on fractures of forearm
+    - Wheeless online for pertinent journals
+    - Updated journals for collateral readings
 
   For a femoral shaft fracture
 
-  Must read
-  - Hoppenfeld Orthopedic Exposures chapter on approaches to femoral shaft
-  - (plus pertinent anatomy)
-  - Rockwood 8 chapter on femoral shaft fracture
-  - Rockweood 8 chapter on internal fixation
-  - AO Volume chapter on femoral shaft fixation
-  - AO chapter on IMN  
-  - AO chapter on relative stability (length axis rotation)
-  - AO chapter on templating
-  - Implant provider surgical technique
+  - Must read
+    - Hoppenfeld Orthopedic Exposures chapter on approaches to femoral shaft
+    - (plus pertinent anatomy)
+    - Rockwood 8 chapter on femoral shaft fracture
+    - Rockweood 8 chapter on internal fixation
+    - AO Volume chapter on femoral shaft fixation
+    - AO chapter on IMN  
+    - AO chapter on relative stability (length axis rotation)
+    - AO chapter on templating
+    - Implant provider surgical technique
 
-  Good to know
-  - OKU Trauma 4 chapter on femur fractures
-  - OKU 11 chapter on femur fractures
-  - Wheeless online for pertinent journals
-  - Updated journals for your collateral readings
+  - Good to know
+    - OKU Trauma 4 chapter on femur fractures
+    - OKU 11 chapter on femur fractures
+    - Wheeless online for pertinent journals
+    - Updated journals for your collateral readings
 
   For femoral neck fracture undergoing a THA
 
-  Must read
-  - Hoppenfeld Orthopedic Exposures chapter on approaches to hip
-  - (plus pertinent anatomy)
-  - Rockwood 8 chapter on femoral neck fracture
-  - Campbell THA chapter (this chapter has a subsection for templating of THA
-    by Capello)
-  - Miller THA chapter (good source to understand alternate bearings)
-  - Implant provider surgical technique
+  - Must read
+    - Hoppenfeld Orthopedic Exposures chapter on approaches to hip
+    - (plus pertinent anatomy)
+    - Rockwood 8 chapter on femoral neck fracture
+    - Campbell THA chapter (this chapter has a subsection for templating of THA
+      by Capello)
+    - Miller THA chapter (good source to understand alternate bearings)
+    - Implant provider surgical technique
 
-  Good to know
-  - OKU Trauma 4 chapter on adult reconstruction
-  - OKU 11 chapter on adult reconstructions
-  - Wheeless online for pertinent journals
-  - Updated journals for your collateral readings
+  - Good to know
+    - OKU Trauma 4 chapter on adult reconstruction
+    - OKU 11 chapter on adult reconstructions
+    - Wheeless online for pertinent journals
+    - Updated journals for your collateral readings
   ~~~
 
 - Remember that the pediatric fracture classification and surgical indications are different from the adult
