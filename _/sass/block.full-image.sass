@@ -1,0 +1,34 @@
+.full-image,
+p.full-image
+  &, &.full-image
+    max-width: 10000px
+    overflow: hidden
+    padding-left: 0
+    padding-right: 0
+    text-align: center
+
+  > img
+    margin: 0 auto
+    display: block
+    background: #eee
+
+  > img
+    width: auto
+
+  &.stretch
+    background: #eee
+
+  &.stretch.stretch
+    @extend .full-bleed
+
+  &.stretch > img
+    width: 100%
+    max-width: 1680px
+
+  // cropped at the bottom, good for screenshots
+  &.crop
+    border-bottom: solid 1px $line
+    overflow: hidden
+
+    > img
+      margin-bottom: -45px

@@ -1,6 +1,6 @@
 ---
-layout: default
-description: "Personal site of Jewel Sadiang-abay."
+layout: landing
+description: "Personal site of Dr. Jewel Sadiang-abay."
 ---
 
 I am a physician helping make the world a better place through medicine.

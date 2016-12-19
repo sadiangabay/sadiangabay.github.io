@@ -1,0 +1,52 @@
+---
+html_class: layout-post
+---
+
+{% include head.html %}
+
+  <link href='/assets/article.css' rel='stylesheet' type='text/css'>
+
+{% include body.html %}
+
+{% if page.show_header != false %}
+  <div class='blog-header'>
+    <div>
+      <h1><a href="/">{{ site.meta.name }}</a></h1>
+    </div>
+  </div>
+{% endif %}
+
+<div class="article-item">
+  <div class="article-headline {{ page.headline_class }}">
+    <h1>
+      <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a>
+    </h1>
+    {% if page.show_byline != false %}
+    <h5>
+      <span class='author'>{{ site.meta.author }}</span>
+      &middot;
+      <span class='date'>{{ page.date | date: "%B %e, %Y" }}</span>
+    </h5>
+    {% endif %}
+  </div>
+
+  <div class="article-content">
+    {{ content }}
+  </div>
+
+  <!--
+    <ul class="social-list">
+      <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+      <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+      <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    </ul>
+  -->
+</div>
+
+{% if page.show_footer != false %}
+  {% include about_the_author.html %}
+{% endif %}
+
+{% include end.html %}
+
+

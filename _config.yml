@@ -1,14 +1,47 @@
-# Site settings
-title: Jewel Sadiang-abay
-email: jewel@sadiangabay.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sadiangabay.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# files
+layouts: ./_/layouts
+includes: ./_/includes
+destination: ./_/site
+sass:
+  sass_dir: ./_/sass
 
-# Build settings
+# Markdown
+highlighter: pygments
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# Site settings
+permalink: /:title.html
+exclude: ["Makefile", "README.md", "_/Gemfile", "_/Gemfile.lock", "CNAME"]
+
+# Site info
+meta:
+  title: Jewel Sadiang-abay
+  author: Jewel Sadiang-abay
+  name: Jewel Sadiang-abay
+  hostname: sadiangabay.com
+
+facebook:
+  app_id: 1797504647189996
+  admin: jewel.sadiangabay
+
+analytics:
+  id: "UA-57991635-4"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "article"
+      tags: []

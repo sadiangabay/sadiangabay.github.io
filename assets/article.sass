@@ -1,0 +1,138 @@
+---
+---
+
+/*
+ * vars
+ */
+
+// colors
+$line: #d0d0d0
+$grey: #909090
+$black: #404040
+$xblack: #131313
+$accent: #3c9
+$bg: #fff
+
+// dimensions
+$margin: 1.4em
+$xs-max: 520px
+$width: 660px
+
+// fonts
+$fira: 'fira sans', sans-serif
+$source: 'source sans pro', sans-serif
+$body: $source
+$serif: 'merriweather', serif
+$mono: 'fira mono', monaco, monospace
+
+// font imports
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans:300,700|Merriweather:300italic|Source+Sans+Pro:400|Fira+Mono:400,700)
+@import url(http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css)
+
+// imports
+@import 'reset'
+@import 'antialias'
+
+html.loading
+  opacity: 0
+  transition: none
+
+html.loaded
+  opacity: 1
+  transition: opacity 250ms linear 250ms
+
+/*
+ * base
+ */
+
+html, body
+  margin: 0
+  padding: 0
+  -ms-text-size-adjust: 100%
+  -webkit-text-size-adjust: 100%
+
+html
+  background: $bg
+
+a
+  transition: all 250ms linear
+
+a:hover
+  transition: all 0 linear
+
+body
+  &
+    font-family: $body
+    font-size: 12pt
+    line-height: 1.5
+    color: $black
+
+  @media (min-width: 1000px)
+    font-size: 13pt
+
+  @media (max-width: $xs-max)
+    font-size: 12pt
+
+/*
+ * components
+ */
+
+@import 'standard-block'
+@import 'code-block'
+@import 'hljs'
+
+@import 'blog-header'
+@import 'pages-list'
+@import 'content-area'
+
+/*
+ * post item
+ */
+
+.article-item
+  &
+    padding-top: 150px
+    padding-bottom: $margin * 4
+
+  & + &
+    border-top: solid 1px #ddd
+
+  @media (max-width: $xs-max)
+    padding-top: $margin * 2
+    padding-bottom: $margin * 2
+
+/*
+ * headline
+ */
+
+.article-headline
+  &
+    text-align: center
+    padding-left: $margin
+    padding-right: $margin
+
+  h1
+    @extend %article-headline-h1
+
+  h5
+    margin-top: 10px
+    text-transform: uppercase
+    font-family: $source
+    font-weight: 400
+    font-size: 0.8em
+    letter-spacing: 1px
+    color: $grey
+
+/*
+ * actual content
+ */
+
+.article-content
+  @extend %content-area
+
+@import 'block.full-bleed'
+@import 'block.brief-intro'
+@import 'block.with-footnote'
+@import 'block.panorama-section'
+@import 'block.full-image'
+@import 'about-the-author'

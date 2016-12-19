@@ -1,0 +1,201 @@
+---
+---
+/*
+ * 3rd party
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300)
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans:300)
+@import url(http://code.ionicframework.com/ionicons/1.4.1/css/ionicons.min.css)
+@import 'reset'
+@import 'antialias'
+
+/*
+ * base
+ */
+
+html, body
+  margin: 0
+  padding: 0
+
+body
+  cursor: default
+  font-family: source sans pro, proxima nova, sans-serif
+  font-weight: 300
+  background: #fff
+  color: #50505a
+  font-size: 19px
+  line-height: 1.6
+
+a
+  color: #222
+  text-decoration: none
+  border-bottom: solid 1px #eee
+  transition: color 250ms linear
+
+a:hover
+  color: #3d8
+  border-bottom: solid 1px #efd
+  transition: color 100ms linear
+
+ul, ol, p
+  margin: 1.5em 0
+
+strong a
+  color: #222
+  font-weight: 400
+
+/*
+ * Content
+ */
+
+.layout-landing .content
+  max-width: 22em
+  margin: 90px
+
+.layout-landing .content > :first-child
+  margin-top: 0
+
+/*
+ * links
+ */
+
+.links
+  margin-top: 60px
+  margin-left: -13px /* compensation for padding */
+
+.links a
+  border: 0
+  margin-right: 20px
+  display: inline-block
+  width: 48px
+  height: 48px
+  line-height: 48px
+  font-size: 32px
+  text-align: center
+
+.links i
+  color: #aaa
+  transition: transform 250ms ease, color 250ms linear
+  transform: scale(0.7)
+
+.links a:hover i
+  color: #3d8
+  transition: transform 100ms ease
+  transform: scale(1.0)
+
+.signature
+  color: #ddd
+  margin-top: 0.5em
+  margin-left: -30px
+  font-size: 1.5em
+
+/*
+ * responsive
+ */
+
+body,
+.content,
+.links,
+.links a,
+.signature,
+ul, ol, p
+  transition: all 250ms ease
+
+/*
+ * tablet
+ */
+
+@media (max-width: 768px)
+  body
+    font-size: 16px
+    line-height: 1.6
+
+  .layout-landing .content
+    margin: 45px auto
+
+  .links
+    text-align: center
+    margin-top: 40px
+
+  .links a
+    margin-right: 0
+
+  .signature
+    text-align: center
+
+  ul, ol, p
+    margin: 1.35em 0
+
+/*
+ * mobile
+ */
+
+@media (max-width: 468px)
+  body
+    font-size: 15px
+    line-height: 1.6
+    color: #222
+
+  a
+    color: #111
+
+  .layout-landing .content
+    margin: 15px
+
+  .links
+    text-align: center
+    margin-top: 20px
+
+  .links a
+    margin-right: 0
+
+  ul, ol, p
+    margin: 1.25em 0
+
+/*
+ * wot m8
+ */
+li > strong:first-child
+  text-transform: uppercase
+  font-size: 0.7em
+  font-weight: bold
+  margin-right: 10px
+
+/*
+ * posts
+ */
+
+.post-list
+  display: block
+  margin: 40px 0
+
+.article-item
+  &
+    display: block
+    overflow: hidden
+    padding-top: 2px
+    padding-bottom: 2px
+    font-size: 0.8em
+
+  &, .title, .date
+    line-height: 40px
+
+  &, &:hover
+    border-bottom: solid 1px #eee
+
+  &:first-child
+    border-top: solid 1px #eee
+
+  .title
+    float: left
+    font-weight: 400
+    font-size: 1em
+
+  .date
+    float: right
+    font-size: 0.8em
+    text-transform: uppercase
+    font-weight: 400
+    letter-spacing: 1px
+    color: #888

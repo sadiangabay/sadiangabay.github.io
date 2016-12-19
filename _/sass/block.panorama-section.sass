@@ -1,0 +1,58 @@
+/*
+ * panorama
+ */
+
+.panorama-section,
+.article-content>.panorama-section
+  &
+    position: relative
+    background: #111
+    width: auto
+    max-width: none
+    @extend %content-area
+    overflow: hidden
+    margin-top: $margin * 2
+    margin-bottom: $margin * 2
+    padding-top: $margin
+    padding-bottom: $margin
+
+  @media (min-width: $xs-max)
+    padding-top: $margin * 2
+    padding-bottom: $margin * 2
+
+  &
+    @extend .full-bleed
+
+  /* variants */
+
+  &.fixed .backdrop
+    background-attachment: fixed
+
+  &:not(.light)
+    color: rgba(white, 0.7)
+    h2, h3, strong, em, i, code
+      color: white
+
+  &.mspaced
+    @media (min-width: $xs-max)
+      margin-top: ($margin * 2)
+      margin-bottom: ($margin * 2)
+
+  &.spaced
+    @media (min-width: $xs-max)
+      margin-top: ($margin * 4)
+      margin-bottom: ($margin * 4)
+
+  > *
+    position: relative
+    z-index: 1
+
+  > .backdrop
+    position: absolute
+    left: 0
+    top: 0
+    bottom: 0
+    right: 0
+    background-position: center center
+    background-size: cover
+    z-index: 0
